@@ -1,12 +1,1 @@
-Many of the models that underpin the analysis of power
-system dynamic behavior are quite uncertain. In particular, loads are
-continually changing and are seldom known precisely. This situation is
-further exacerbated by the uncertainty inherent in renewable
-generation and highly-responsive load control schemes. Furthermore, as
-power system controls become more dependent upon wide-area
-communications, uncertainty associated with signal latency will become
-increasingly important. This talk will provide an overview of
-techniques that are applicable for assessing the impact of uncertainty
-on large-scale, nonlinear, non-smooth dynamical systems. These
-techniques will be used to establish uncertainty bounds on the dynamic
-behavior of power system.
+Many of the models that underpin the analysis of power system dynamic behavior are quite uncertain. In particular, loads are continually changing and are seldom known precisely. This situation is further exacerbated by the uncertainty inherent in renewable generation and highly-responsive load control schemes. Furthermore, as power system controls become more dependent upon wide-area communications, uncertainty associated with signal latency will become increasingly important. This talk will provide an overview of techniques that are applicable for assessing the impact of uncertainty on large-scale, nonlinear, non-smooth dynamical systems. These techniques will be used to establish uncertainty bounds on the dynamic behavior of power system.
