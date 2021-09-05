@@ -626,7 +626,7 @@ button:focus,
 
 .client-logo a img {
     width              : 100%;
-    opacity            : 0.5;
+    opacity            : 0.3;
     -webkit-transition : all 0.8s ease 0s;
     -moz-transition    : all 0.8s ease 0s;
     -o-transition      : all 0.8s ease 0s;
@@ -634,7 +634,7 @@ button:focus,
     }
 
 .client-logo a:hover img {
-    opacity : .5;
+    opacity : .3;
     }
 
 @media (max-width : 992px) {
