@@ -346,7 +346,7 @@ button:focus,
  *-------------------*/
 
 .jumbotron {
-    background            : url("../img/new-orleans.jpg");
+    background            : url("../img/austin.jpg");
     /*background            : #888888 !important;*/
     background-size       : cover;
     padding               : 0;
@@ -621,7 +621,7 @@ button:focus,
     }
 
 /* --------------------------
- * Client Logo 
+ * Client Logo
  *---------------------------*/
 
 .client-logo a img {
